@@ -2,6 +2,8 @@
 
 An advanced AI-powered tool that converts Figma designs into production-ready code with high accuracy and maintainability.
 
+<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=65507&s=3' border='0' alt='Free Website Counter'></a></div>
+
 ## 🎯 Preview
 
 ### Light Mode
